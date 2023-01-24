@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Tinder Clone",
-    "slug": "tinder-2",
+    "name": "MAXFlash",
+    "slug": "maxflash",
     "version": "2.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -29,7 +29,7 @@
           "certificateHash": "" //Add your own certificate hash
         }
       },
-      "package": "com.harisjaved.tinderclone"
+      "package": "com.sscg.maxflash"
     },
     "web": {
       "favicon": "./assets/icon.png"
